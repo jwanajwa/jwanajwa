@@ -1,16 +1,44 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**jwanajwa/jwanajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama
+[Isi Nama Lengkap]
 
-Here are some ideas to get you started:
+## Username GitHub
+[Isi Username GitHub]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Email
+[Isi Alamat Email]
+
+## Pendidikan
+[Isi Riwayat Pendidikan]
+
+## Keahlian
+- [Keahlian 1]
+- [Keahlian 2]
+- [Keahlian 3]
+
+## Proyek-Proyek Terkini
+1. **[Nama Proyek 1]**
+   - Deskripsi: [Deskripsi singkat proyek]
+   - Tautan: [Tautan repository atau situs proyek]
+
+2. **[Nama Proyek 2]**
+   - Deskripsi: [Deskripsi singkat proyek]
+   - Tautan: [Tautan repository atau situs proyek]
+
+## Pengalaman Kerja
+1. **[Nama Perusahaan 1]**
+   - Posisi: [Posisi Anda]
+   - Tahun: [Tahun Mulai] - [Tahun Selesai]
+
+2. **[Nama Perusahaan 2]**
+   - Posisi: [Posisi Anda]
+   - Tahun: [Tahun Mulai] - [Tahun Selesai]
+
+## Sosial Media
+- LinkedIn: [Tautan LinkedIn]
+- Twitter: [Username Twitter]
+
+## Pencapaian
+- [Pencapaian 1]
+- [Penc
