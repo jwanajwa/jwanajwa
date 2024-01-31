@@ -1,16 +1,16 @@
 # Biodata
-
+My name is najwa fitri aulia i am from rembang city,central java,i am 16 years old on march 16,i study in whid hasim science high school yogyakarta,i am still in tenth grade semester 2,i join english extracurricular.
 ## Nama
-[Isi Nama Lengkap]
+[Najwa Fitri Aulia]
 
 ## Username GitHub
-[Isi Username GitHub]
+[jwanajwa]
 
 ## Email
-[Isi Alamat Email]
+[Rembang,jawatengah]
 
 ## Pendidikan
-[Isi Riwayat Pendidikan]
+[SMA SAINS AL-QUR'AN WAHID HASYIM]
 
 ## Keahlian
 - [Keahlian 1]
